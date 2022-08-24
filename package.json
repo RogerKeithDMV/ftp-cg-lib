@@ -1,5 +1,5 @@
 {
-  "name": "ftpnodejs",
+  "name": "ftp-cg-lib",
   "version": "0.0.1-snapshot",
   "description": "Library that gets an ftp connection",
   "main": "index.js",
