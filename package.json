@@ -1,6 +1,6 @@
 {
   "name": "ftp-cg-lib",
-  "version": "0.0.11-snapshot",
+  "version": "1.0.0",
   "description": "Library that gets an ftp connection",
   "main": "index.js",
   "keywords": [
@@ -18,6 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "basic-ftp": "^5.0.1",
+    "ftp": "^0.3.10",
+    "ftp-srv": "^4.6.2",
     "msgbroker-nxg-cg": "^0.2.0",
     "process": "^0.11.10",
     "stream": "^0.0.2",
