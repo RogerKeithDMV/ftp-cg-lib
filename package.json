@@ -1,6 +1,6 @@
 {
   "name": "ftp-cg-lib",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Library that gets an ftp connection",
   "main": "index.js",
   "keywords": [
